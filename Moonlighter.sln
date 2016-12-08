@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moonlighter.CSharp.Plugins", "Moonlighter.CSharp.Plugins.csproj", "{01AB2487-6EFD-FA3C-52C6-9CA43B8893EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moonlighter.CSharp", "Moonlighter.CSharp.csproj", "{C229CB0F-173D-CEB9-6490-88EF4665D671}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Moonlighter.CSharp.Editor", "Moonlighter.CSharp.Editor.csproj", "{61E052CA-5A67-4BE8-AACF-EC76E8F7CE66}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01AB2487-6EFD-FA3C-52C6-9CA43B8893EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01AB2487-6EFD-FA3C-52C6-9CA43B8893EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01AB2487-6EFD-FA3C-52C6-9CA43B8893EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01AB2487-6EFD-FA3C-52C6-9CA43B8893EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C229CB0F-173D-CEB9-6490-88EF4665D671}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C229CB0F-173D-CEB9-6490-88EF4665D671}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C229CB0F-173D-CEB9-6490-88EF4665D671}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C229CB0F-173D-CEB9-6490-88EF4665D671}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E052CA-5A67-4BE8-AACF-EC76E8F7CE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E052CA-5A67-4BE8-AACF-EC76E8F7CE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E052CA-5A67-4BE8-AACF-EC76E8F7CE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E052CA-5A67-4BE8-AACF-EC76E8F7CE66}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
